@@ -1,0 +1,23 @@
+body.index-hatter {
+  background-image: url('indexhatter.png'); 
+  background-color: rgb(223, 248, 248);
+  background-size: 650px auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 300px;
+  margin: 200px;
+  font-family: Arial, sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.tartalom {
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 40px;
+  max-width: 500px;
+  margin: auto;
+  margin-top: 10vh;
+  border-radius: 10px;
+}
+
+
+  
